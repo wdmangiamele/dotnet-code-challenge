@@ -1,0 +1,26 @@
+﻿[
+  {
+    "compensationId": "16a596ae-edd3-4847-99fe-c4518e82c86f",
+    "employee": "John Lennon",
+    "salary": 140000,
+    "effectiveDate": "02/06/2004"
+  },
+  {
+    "compensationId": "b7839309-3348-463b-a7e3-5de1c168beb3",
+    "employee": "Paul McCartney",
+    "salary": 200000,
+    "effectiveDate": "02/06/2004"
+  },
+  {
+    "compensationId": "03aa1462-ffa9-4978-901b-7c001562cf6f",
+    "employee": "Ringo Starr",
+    "salary": 300000,
+    "effectiveDate": "02/06/2004"
+  },
+  {
+    "compensationId": "62c1084e-6e34-4630-93fd-9153afb65309",
+    "employee": "Pete Best",
+    "salary": 400000,
+    "effectiveDate": "02/06/2004"
+  }
+]
